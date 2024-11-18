@@ -1,0 +1,5 @@
+Hello, world! How are you??
+This is a test: do you see the punctuation?
+Amazing!!! What a beautiful day... isn't it?
+Just some text without punctuation
+Another line; with some: punctuation, here!
