@@ -1,0 +1,5 @@
+96.246.236.151:3389;greenlightexp\admin;P@ssw0rd (greentech;Bazzz628)    | Country: United States | State: New York | City: Long Island City | ZIP:  11101 | ISP: Verizon FiOS |
+192.168.1.1:22;user1;StrongPass123 (example;Test123)      | Country: Canada | State: Ontario | City: Toronto | ZIP:  M5H 2N2 | ISP: Rogers |
+10.0.0.5:3306;dbuser;SecurePass! (database;AnotherPass)   | Country: United Kingdom | State: England | City: London | ZIP:  SW1A 1AA | ISP: BT |
+172.16.254.1:8080;admin;Password!2023 (somecompany;Pass2023) | Country: Australia | State: New South Wales | City: Sydney | ZIP:  2000 | ISP: Telstra |
+203.0.113.5:443;webadmin;Web@dmin123 (webhost;WebPass)    | Country: Germany | State: Bavaria | City: Munich | ZIP:  80331 | ISP: Telekom |
